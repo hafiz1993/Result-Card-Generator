@@ -1,0 +1,12 @@
+body {
+  margin: 0;
+}
+
+#partTwo {
+  display: none;
+}
+
+#qr-img {
+  width: 100px;
+  height: 100px;
+}
